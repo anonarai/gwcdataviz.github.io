@@ -1,0 +1,101 @@
+/* BRAM CSS FIle,2015*/
+h1 {
+    background:#FFFFFF;
+    padding-top: 350px;
+    padding-bottom: 350px;
+    text-align: center;
+    background: #003366;
+    color: #FFFFFF;
+}
+
+.section-heading{
+    color: #000000;
+    margin-top: 90px;
+}
+
+.bg-primary{
+    background: #FFFFFF;
+}
+
+section {
+    background: #003366;
+    color: #000000;
+}
+
+header {
+    min-height: 100%;
+}
+
+#container2{ 
+     display: none;
+}
+#container3{ 
+     display: none;
+}
+#container4{ 
+     display: none;
+}
+#container5{ 
+     display: none;
+}
+#container6{ 
+     display: none;
+}
+#container7{ 
+     display: none;
+}
+#container8{ 
+     display: none;
+}
+#container9{ 
+     display: none;
+}
+#container10{ 
+     display: none;
+}
+#container11{ 
+     display: none;
+}
+#container12{ 
+     display: none;
+}
+
+.row{
+    /*margin-left: auto;
+    margin-right: auto;*/
+
+}
+.col-xs-3{
+    /*float: left;*/
+    padding-left: 75px;
+}
+#Main{
+    display: none;
+}
+
+#braveToolTip {
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+#singleChartView {
+    width: 800px;
+    height: 800px;
+    margin-left: 375px;
+    margin-right: 500px
+}
+
+.bg-primary {
+    background: #000000;
+}
+.section-heading {
+    color: #ffffff;
+}
+
+#moreInfo{
+    height:250px;
+    margin-left: 10px;
+    margin-right: 500px
+}
